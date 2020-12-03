@@ -65,3 +65,6 @@ Feel free to email me for any suggestions or questions to jennifermichelle.aguir
 
 ## Links
 https://workout-app-tracker.herokuapp.com/
+
+
+![fitness.jpg](public/fitness.jpg)
